@@ -27,7 +27,7 @@ header {
     position: sticky;
     top: 0;
     background-color: #000;
-    height: 190px;
+    height: 177px;
 }
 
 header img {
@@ -252,4 +252,5 @@ footer p {
 footer p a { 
     color: #fff;  /* Sets the link colour */ 
     text-decoration: none;    
+
 }  
