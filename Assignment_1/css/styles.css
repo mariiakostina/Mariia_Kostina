@@ -11,6 +11,12 @@ html, body, header, nav, main, footer, h1, div,  img, ul {
     border: 0;     
 }
 
+#container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 
 body {   /* Add the body selector */ 
     background-color: #000;   /* Set the background colour */ 
@@ -254,6 +260,7 @@ footer p a {
     text-decoration: none;    
 
 }  
+
 
 
 
